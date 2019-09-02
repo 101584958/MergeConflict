@@ -2,8 +2,4 @@ a
 b
 c
 d
-<<<<<<< HEAD
-difference
-=======
 e
->>>>>>> test
